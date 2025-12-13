@@ -1,9 +1,0 @@
-name: dsproj
-channels:
-  - conda-forge
-dependencies:
-  - python=3.11
-  - pandas
-  - matplotlib
-  - jupyter
-  - psycopg2
